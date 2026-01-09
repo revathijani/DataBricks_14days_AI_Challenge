@@ -1,0 +1,13 @@
+cd your-repo
+Create a folder:
+
+bash
+Copy code
+mkdir folder-name
+Add and push:
+
+bash
+Copy code
+git add .
+git commit -m "Added new folder"
+git push origin main
