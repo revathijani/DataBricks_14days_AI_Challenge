@@ -11,9 +11,15 @@ Practice SQL and PySpark in a production-like environment
 Understand how Databricks supports AI & analytics workloads
 
 🛠️ Tools & Technologies
+
 Databricks
+
 Apache Spark
+
 SQL
+
 PySpark
+
 Delta Lake
+
 CSV & Parqu
